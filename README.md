@@ -38,7 +38,7 @@ Built using a physical Ardiuno UNO kit, then recreated on TinkerCAD using an Ard
 <img width="708" alt="Screenshot 2024-01-20 at 7 33 46 PM" src="https://github.com/julialviol/ArduinoSecuritySystem/assets/92873123/45a1dd8d-9565-415e-9e5f-5b4ef02a42d1">
 
 # Code
-Click here to see code!
+Click [here](https://github.com/julialviol/ArduinoSecuritySystem/blob/main/securitySystem.ino) to see code!
 
 # Sample Output
 Program start:
