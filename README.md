@@ -1,7 +1,7 @@
 # ArduinoSecuritySystem
 
 # Description
-This project is acts as a security system with a password using the keypad. The LCD prompts the user to 'Enter a Password'. The RGB LED changes from red to green depending on if the password was entered correctly or not. Keys such as ‘A’ ‘B’ ‘C’ ‘D’ will display 'Invalid key' on the LCD. A servo motor is included to imitate a door opening when the correct password is inputed.
+This project acts as a security system with a password using the keypad. The LCD prompts the user to 'Enter a Password'. The RGB LED changes from red to green depending on if the password was entered correctly or not. Keys such as ‘A’ ‘B’ ‘C’ ‘D’ will display 'Invalid key' on the LCD. A servo motor is included to imitate a door opening when the correct password is inputed.
 
 # Materials Required
 Arduino UNO R3 Controller Board
